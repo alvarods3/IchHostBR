@@ -1,5 +1,16 @@
 This repository contains the dataset for all Brazilian Ichnuemonidae Host Data
 
+Last update october 2024
+The next update for this dataset is scheduled for october 2025. If you have any corrections, new records, or additional references that could improve this dataset, please feel free to contribute!
+
+To ensure consistency, please submit new data in the same format as this dataset. You can open an issue on this repository or send your contributions via email to alvarods3@gmail.com. Contributions should include all relevant fields as described above.
+
+If you use this dataset in your research, please cite the corresponding paper:
+
+Santos, A.D., Brandão, C.R.F. & Onody, H.C. Host associations of Brazilian Darwin wasps: current knowledge and the IchHostBR dataset. Sci Nat 112, 24 (2025). https://doi.org/10.1007/s00114-025-01974-4
+
+Thank you for your support!
+
 Dataset Description:
 1. Subfamily: Subfamily taxonomic rank within the Ichneumonidae family.
 2. Genus: Genus taxonomic rank within the Ichneumonidae family.
