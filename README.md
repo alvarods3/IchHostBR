@@ -1,4 +1,4 @@
-This repository contains the dataset for all Brazilian Ichnuemonidae Host Data
+This repository contains the dataset for all Brazilian Ichneumonidae Host Data
 
 Last update october 2024
 The next update for this dataset is scheduled for october 2025. If you have any corrections, new records, or additional references that could improve this dataset, please feel free to contribute!
